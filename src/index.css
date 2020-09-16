@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.hello-world {
+  font-size: 3rem;
+  font-weight: 300;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: underline;
+  text-align: center;
+}
